@@ -1,4 +1,4 @@
-baseURL = "http://blog.eucalyptuscloud.org/"
+baseURL = "https://blog.eucalyptus.cloud/"
 languageCode = "en-us"
 title = ""
 theme = "type"
