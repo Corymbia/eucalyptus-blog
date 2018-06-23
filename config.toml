@@ -1,6 +1,6 @@
 baseURL = "https://blog.eucalyptus.cloud/"
 languageCode = "en-us"
-title = ""
+title = "Eucalyptus Cloud : Blog"
 theme = "type"
 
 disqusShortname = ""
@@ -18,11 +18,11 @@ themesDir = "themes"
 	# If now image path is provided, a orange background will be shown instead.
 	headerImage = ""
 	copyright = "Eucalyptus Cloud"
-	title = "Eucalyptus Cloud"
+	title = "Eucalyptus Cloud : Blog"
 
 	[params.social]
-		rss = true
-		homepage = false
+		rss = false
+		homepage = true
 		email = ""
 		behance = ""
 		bitbucket  =""
