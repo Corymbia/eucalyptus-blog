@@ -22,6 +22,7 @@ themesDir = "themes"
 
 	[params.social]
 		rss = false
+		docs = "https://docs.eucalyptus.cloud/"
 		homepage = true
 		email = ""
 		behance = ""
