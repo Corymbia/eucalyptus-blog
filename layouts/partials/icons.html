@@ -7,6 +7,15 @@
 </li>
 {{- end }}
 
+<!-- customize to allow docs link -->
+{{ with .Site.Params.social.docs -}}
+<li class="icon">
+	<a href="{{ $.Site.Params.social.docs }}" title="{{ $.Site.Data.l10n.documentation }}">
+		<i class="fa fa-fw fa-book"></i>
+	</a>
+</li>
+{{- end }}
+
 {{ if .Site.Params.social.rss -}}
 <li class="icon">
 	<a href="{{ $.Site.BaseURL }}index.xml" title="{{ $.Site.Data.l10n.rssSubscribe }}">

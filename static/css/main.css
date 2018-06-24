@@ -3,6 +3,8 @@
 /* CUSTOM CSS */
 .post-teaser{background-color:#e0e0e0}
 .avatar{height:40px;width:340px}
+.site-header{padding:25px 20%}
+.site-footer{padding:25px 20%}
 
 /* see #6 */
 .highlighttable td,th{padding:0;border:0;}td.code{width:95%;}

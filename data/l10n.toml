@@ -13,6 +13,7 @@ pageNotFoundSubtitle = "Sorry, the requested page wasn’t found on the server."
 # Social networks
 # Text will beshown while hovering the navigation icons
 homepage = "Blog"
+documentation = "Documentation"
 rssSubscribe  = "Subcribe"
 email = "Email"
 behance = "Behance"
