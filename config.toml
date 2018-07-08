@@ -7,6 +7,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = 10
 themesDir = "themes"
+pygmentsUseClasses=true
 
 [params]
 	author = ""
