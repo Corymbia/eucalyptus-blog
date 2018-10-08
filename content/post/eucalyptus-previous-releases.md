@@ -34,6 +34,11 @@ If using a release earlier than 4.4, please keep in mind that these
 previous releases are no longer supported or maintained. RPMs are
 available for previous releases at these locations:
 
+Eucalyptus 4.0:
+{{< highlight shell >}}
+http://downloads.eucalyptus.cloud/software/eucalyptus/4.0/rhel/6/x86_64/
+{{< / highlight >}}
+
 Eucalyptus 4.1:
 {{< highlight shell >}}
 http://downloads.eucalyptus.cloud/software/eucalyptus/4.1/rhel/6/x86_64/
