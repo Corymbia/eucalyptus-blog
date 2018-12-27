@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Eucalyptus Cloud : Blog"
 theme = "type"
 
+buildExpired = true
+buildFuture = true
 disqusShortname = ""
 googleAnalytics = ""
 paginate = 10
