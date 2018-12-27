@@ -9,6 +9,9 @@ paginate = 10
 themesDir = "themes"
 pygmentsUseClasses=true
 
+[taxonomies]
+	tag = "tags"
+
 [params]
 	author = ""
 	description = "Eucalyptus Cloud Blog"
