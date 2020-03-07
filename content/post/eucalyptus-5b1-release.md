@@ -4,6 +4,7 @@ date: 2019-04-01T12:00:00-07:00
 tags:
 - announcement
 - release
+- eucalyptus-5
 ---
 
 Eucalyptus Cloud 5 beta 1 has been released, this release provides early access for trying out new

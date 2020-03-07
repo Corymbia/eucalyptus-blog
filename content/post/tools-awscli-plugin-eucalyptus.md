@@ -4,6 +4,7 @@ date: 2020-03-06T12:00:00-07:00
 tags:
 - announcement
 - release
+- tools
 ---
 
 A new AWS CLI plugin with support for Eucalyptus Cloud deployments is now
